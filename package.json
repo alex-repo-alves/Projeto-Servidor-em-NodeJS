@@ -1,0 +1,12 @@
+{
+  "name": "Projeto-Servidor-em-NodeJS",
+  "version": "1.0.0",
+  "description": "Projeto para treinar o uso do NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
